@@ -1,0 +1,5 @@
+C:\Users\Davina\Documents\alpro4\obj\Debug\net10.0\alpro4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Davina\Documents\alpro4\obj\Debug\net10.0\alpro4.AssemblyInfoInputs.cache
+C:\Users\Davina\Documents\alpro4\obj\Debug\net10.0\alpro4.AssemblyInfo.cs
+C:\Users\Davina\Documents\alpro4\obj\Debug\net10.0\alpro4.csproj.CoreCompileInputs.cache
+C:\Users\Davina\Documents\alpro4\obj\Debug\net10.0\alpro4.sourcelink.json

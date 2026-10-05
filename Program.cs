@@ -1,6 +1,4 @@
-﻿// Contoh Kasus Alpro
-
-using System;
+﻿using System;
 
 namespace ContohKasusAlpro
 {

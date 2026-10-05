@@ -8,10 +8,12 @@ namespace ContohKasusAlpro
     {
         static void Main()
         {
-            // contoh penggunaan if else
+            // INI JGN DIMATIIN!!!!!!!!!!!!!!!!!
             Console.WriteLine("Masukkan angka: ");
             float angka = float.Parse(Console.ReadLine());
+            // INI JGN DIMATIIN!!!!!!!!!!!!!!!!
 
+            // contoh penggunaan if else
             if (angka >= 85 && angka <= 100)
             {
                 Console.WriteLine("A");
@@ -67,8 +69,8 @@ namespace ContohKasusAlpro
                     Console.WriteLine("E");
                     break;
             }
-            // contoh penggunaan switch expression
 
+            // contoh penggunaan switch expression
             string hasil = angka switch
             {
                 >= 85 and <= 100 => "A",
